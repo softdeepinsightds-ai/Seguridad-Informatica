@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Catálogo de productos</string>
+    <string name="catalog_title">Catálogo de Productos</string>
+    <string name="detail_prompt">Has seleccionado:</string>
+</resources>

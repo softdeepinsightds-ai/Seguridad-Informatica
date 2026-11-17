@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.ListViewApp" parent="android:style/Theme.Material.Light.NoActionBar">
+        <item name="android:colorPrimary">#22D3A5</item>
+        <item name="android:colorPrimaryDark">#159A78</item>
+        <item name="android:colorAccent">#8B5CF6</item>
+    </style>
+</resources>
